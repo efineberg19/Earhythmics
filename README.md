@@ -7,6 +7,5 @@ functionality also extends to testing if an individual has perfect pitch.
 PROJECT TITLE: Earhythmics
 PURPOSE OF PROJECT: Entry and 2nd place winner (beginner category) for MIT Blueprint Hackathon.
 VERSION or DATE: 1.0
-HOW TO START THIS PROJECT: Open Project .zip file in Xcode
 AUTHORS: Beth Fineberg and Ankita Devasia
-USER INSTRUCTIONS: Press play then tap note name, then submit. 
+USER INSTRUCTIONS: Press play then tap note name, then submit
